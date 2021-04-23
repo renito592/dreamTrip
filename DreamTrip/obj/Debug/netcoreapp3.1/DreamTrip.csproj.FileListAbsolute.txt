@@ -1,0 +1,322 @@
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\DreamTrip.exe
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.RazorAssemblyInfo.cache
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.RazorAssemblyInfo.cs
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.AssemblyInfoInputs.cache
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.AssemblyInfo.cs
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.TagHelpers.input.cache
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.TagHelpers.output.cache
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.RazorCoreGenerate.cache
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.RazorTargetAssemblyInfo.cache
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.RazorTargetAssemblyInfo.cs
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\staticwebassets\DreamTrip.StaticWebAssets.Manifest.cache
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\staticwebassets\DreamTrip.StaticWebAssets.xml
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.csproj.CopyComplete
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\DreamTrip.deps.json
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\DreamTrip.runtimeconfig.json
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\DreamTrip.runtimeconfig.dev.json
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\DreamTrip.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\DreamTrip.pdb
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\DreamTrip.Views.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\DreamTrip.Views.pdb
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.Views.pdb
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.dll
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.pdb
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.genruntimeconfig.cache
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Register.cshtml.g.cs
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.csproj.CoreCompileInputs.cache
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.MvcApplicationPartsAssemblyInfo.cache
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\Razor\Views\Trip\List.cshtml.g.cs
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\Razor\Views\Trip\Edit.cshtml.g.cs
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\Razor\Views\Trip\Details.cshtml.g.cs
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.csprojAssemblyReference.cache
+D:\Online edu 2\S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\Razor\Views\TripApplication\Details.cshtml.g.cs
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\DreamTrip.exe
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\DreamTrip.deps.json
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\DreamTrip.runtimeconfig.json
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\DreamTrip.runtimeconfig.dev.json
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\DreamTrip.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\DreamTrip.pdb
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\DreamTrip.Views.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\DreamTrip.Views.pdb
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.csprojAssemblyReference.cache
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.csproj.CoreCompileInputs.cache
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.MvcApplicationPartsAssemblyInfo.cache
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.RazorAssemblyInfo.cache
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.RazorAssemblyInfo.cs
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.AssemblyInfoInputs.cache
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.AssemblyInfo.cs
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.TagHelpers.input.cache
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.TagHelpers.output.cache
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.RazorCoreGenerate.cache
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Register.cshtml.g.cs
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\Razor\Views\TripApplication\Details.cshtml.g.cs
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\Razor\Views\Trip\Details.cshtml.g.cs
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\Razor\Views\Trip\Edit.cshtml.g.cs
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\Razor\Views\Trip\List.cshtml.g.cs
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.RazorTargetAssemblyInfo.cache
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.RazorTargetAssemblyInfo.cs
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.Views.pdb
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.csproj.CopyComplete
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\staticwebassets\DreamTrip.StaticWebAssets.Manifest.cache
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\staticwebassets\DreamTrip.StaticWebAssets.xml
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.dll
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.pdb
+D:\Online edu 2\6 - S-programming\DreamTrip\DreamTrip\obj\Debug\netcoreapp3.1\DreamTrip.genruntimeconfig.cache
